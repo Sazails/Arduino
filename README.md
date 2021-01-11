@@ -1,2 +1,2 @@
 # Arduino - Projects
-Cllection of my arduino projects
+Collection of my Arduino projects
